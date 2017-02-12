@@ -1,0 +1,8 @@
+prefix=/home/zakaria/hratc2017_workspace/install
+
+Name: hratc2017_robot
+Description: Description of hratc2017_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zakaria/hratc2017_workspace/install/lib -lgazebo_mimic_plugin
+Requires: gazebo_ros gazebo_ros

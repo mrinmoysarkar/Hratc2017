@@ -1,0 +1,8 @@
+prefix=/home/zakaria/hratc2017_workspace/install
+
+Name: metal_detector_msgs
+Description: Description of metal_detector_msgs
+Version: 0.0.0
+Cflags: -I/home/zakaria/hratc2017_workspace/install/include
+Libs: -L/home/zakaria/hratc2017_workspace/install/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/zakaria/hratc2017_workspace/devel
+
+Name: hratc2017_framework
+Description: Description of hratc2017_framework
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zakaria/hratc2017_workspace/devel/lib 
+Requires: gazebo_ros gazebo_ros metal_detector_msgs

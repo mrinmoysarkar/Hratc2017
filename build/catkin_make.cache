@@ -1,0 +1,2 @@
+hratc2017_entry_template:hratc2017_framework:hratc2017_robot:metal_detector_msgs
+-DCATKIN_DEVEL_PREFIX=/home/zakaria/hratc2017_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/zakaria/hratc2017_workspace/install -G Unix Makefiles
